@@ -1,2 +1,2 @@
 # Red-Team-Lab
-Home Lab for Read Team operations
+Home Lab for Red Team operations
